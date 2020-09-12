@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my Github page!
 
-This is my personal Github where I use it to store the work or projects that I have worked for both professional and personal. 
+This is my personal Github page where I use it to store the work or projects that I have worked for both professional and personal. 
 
 - 🔭 I’m currently working on developing ecommerce project using React, Redux
 - 🌱 I’m currently learning UI/UX design principles.
